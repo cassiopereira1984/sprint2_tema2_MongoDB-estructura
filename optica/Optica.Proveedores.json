@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "660bcf83ff32e82c6026ebc6"
+  },
+  "id": {
+    "proveedor": 1
+  },
+  "nombre": "Rayban",
+  "dirección teléfono-": "Barcelona",
+  "telefono": 987654321,
+  "fax": 123456789,
+  "nif": "B123456"
+},
+{
+  "_id": {
+    "$oid": "660bcf83ff32e82c6026ebc7"
+  },
+  "id": {
+    "proveedor": 2
+  },
+  "nombre": "Oklen",
+  "dirección teléfono-": "Madrid",
+  "telefono": 123456789,
+  "fax": 125684289,
+  "nif": "A123567"
+},
+{
+  "_id": {
+    "$oid": "660bcf83ff32e82c6026ebc8"
+  },
+  "id": {
+    "proveedor": 3
+  },
+  "nombre": "Chylebeens",
+  "dirección teléfono-": "Valencia",
+  "telefono": 987654321,
+  "fax": 421796433,
+  "nif": "C456832"
+}]

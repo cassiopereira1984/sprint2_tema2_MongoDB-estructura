@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "6605d1d64eb4043ba0fbff62"
+  },
+  "id_cliente": 1,
+  "nombre": "Juan Pérez",
+  "direccion_postal": "Calle Gran Vía 123",
+  "telefono": "+34 678 987 654",
+  "correo_electronico": "juan@example.com",
+  "fecha_registro": "2024-03-19 11:26:27",
+  "id_cliente_recomendador": "NULL"
+},
+{
+  "_id": {
+    "$oid": "6605d1d64eb4043ba0fbff63"
+  },
+  "id_cliente": 2,
+  "nombre": "María Gómez",
+  "direccion_postal": "Calle Comercial 101",
+  "telefono": "+34 666 123 456",
+  "correo_electronico": "maria@example.com",
+  "fecha_registro": "2024-03-19 11:26:27",
+  "id_cliente_recomendador": "1"
+},
+{
+  "_id": {
+    "$oid": "6605d1d64eb4043ba0fbff64"
+  },
+  "id_cliente": 3,
+  "nombre": "Luisa Martínez",
+  "direccion_postal": "Avenida Libertador 555",
+  "telefono": "+34 611 987 654",
+  "correo_electronico": "luisa@example.com",
+  "fecha_registro": "2024-03-19 11:26:27",
+  "id_cliente_recomendador": "2"
+},
+{
+  "_id": {
+    "$oid": "6605d1d64eb4043ba0fbff65"
+  },
+  "id_cliente": 4,
+  "nombre": "Pedro Sánchez",
+  "direccion_postal": "Carrera 9 #45-50",
+  "telefono": "+34 622 345 678",
+  "correo_electronico": "pedro@example.com",
+  "fecha_registro": "2024-03-19 11:26:27",
+  "id_cliente_recomendador": "3"
+},
+{
+  "_id": {
+    "$oid": "6605d1d64eb4043ba0fbff66"
+  },
+  "id_cliente": 5,
+  "nombre": "Ana Rodríguez",
+  "direccion_postal": "Rua das Flores 78",
+  "telefono": "+34 633 456 789",
+  "correo_electronico": "ana@example.com",
+  "fecha_registro": "2024-03-19 11:26:27",
+  "id_cliente_recomendador": "4"
+},
+{
+  "_id": {
+    "$oid": "66118c48c7b7a94860b4af34"
+  },
+  "nombre": "Cassio"
+},
+{
+  "_id": {
+    "$oid": "66118c48c7b7a94860b4af35"
+  },
+  "nombre": "Laura"
+}]

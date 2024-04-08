@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "660bcee3ff32e82c6026ebc1"
+  },
+  "id_empleado": 1,
+  "nombre": "Marc"
+},
+{
+  "_id": {
+    "$oid": "660bcee3ff32e82c6026ebc2"
+  },
+  "id_empleado": 2,
+  "nombre": "Lluc"
+},
+{
+  "_id": {
+    "$oid": "660bcee3ff32e82c6026ebc3"
+  },
+  "id_empleado": 3,
+  "nombre": "Vicents"
+}]
