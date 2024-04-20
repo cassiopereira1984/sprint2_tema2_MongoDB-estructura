@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "661cf665ecbf44ebbd32ce97"
+  },
+  "marca": "Rayban",
+  "graduaction": {
+    "l": 2.3,
+    "r": 2
+  },
+  "glassColor": {
+    "l": "Azul",
+    "r": "Azul"
+  },
+  "frameType": "Metalica",
+  "price": 127
+}]

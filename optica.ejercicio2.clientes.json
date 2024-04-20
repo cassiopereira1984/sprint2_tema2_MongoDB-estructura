@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "661cf3c8ecbf44ebbd32ce7e"
+  },
+  "nameClient": "Cassio",
+  "data": {
+    "adress": "Carrer Rocafort, 123",
+    "telephone": 688980084,
+    "email": "cass@cas.mail",
+    "registerDate": "23/09/2023"
+  },
+  "lastShop": {
+    "marca": "Rayban",
+    "graduaction": {
+      "l": 2.3,
+      "r": 2
+    },
+    "glassColor": {
+      "l": "Azul",
+      "r": "Azul"
+    },
+    "frameType": "Metalica",
+    "price": 127
+  }
+},
+{
+  "_id": {
+    "$oid": "661cf3c8ecbf44ebbd32ce7f"
+  },
+  "nameClient": "Marc",
+  "data": {
+    "adress": "Carrer Rocafort, 123",
+    "telephone": 688980084,
+    "email": "cass@cas.mail",
+    "registerDate": "23/09/2023"
+  },
+  "lastShop": {
+    "marca": "Rayban",
+    "graduaction": {
+      "l": 2.3,
+      "r": 2
+    },
+    "glassColor": {
+      "l": "Azul",
+      "r": "Azul"
+    },
+    "frameType": "Metalica",
+    "price": 127
+  }
+},
+{
+  "_id": {
+    "$oid": "661cf3c8ecbf44ebbd32ce80"
+  },
+  "nameClient": "Lluic",
+  "data": {
+    "adress": "Carrer Rocafort, 123",
+    "telephone": 688980084,
+    "email": "cass@cas.mail",
+    "registerDate": "23/09/2023"
+  },
+  "lastShop": {
+    "marca": "Rayban",
+    "graduaction": {
+      "l": 2.3,
+      "r": 2
+    },
+    "glassColor": {
+      "l": "Azul",
+      "r": "Azul"
+    },
+    "frameType": "Metalica",
+    "price": 127
+  }
+},
+{
+  "_id": {
+    "$oid": "661cf3c8ecbf44ebbd32ce81"
+  },
+  "nameClient": "Jordi",
+  "data": {
+    "adress": "Carrer Rocafort, 123",
+    "telephone": 688980084,
+    "email": "cass@cas.mail",
+    "registerDate": "23/09/2023"
+  },
+  "lastShop": {
+    "marca": "Rayban",
+    "graduaction": {
+      "l": 2.3,
+      "r": 2
+    },
+    "glassColor": {
+      "l": "Azul",
+      "r": "Azul"
+    },
+    "frameType": "Metalica",
+    "price": 127
+  }
+}]
