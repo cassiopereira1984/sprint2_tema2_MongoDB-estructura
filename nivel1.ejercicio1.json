@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "661cf655ecbf44ebbd32ce95"
+  },
+  "nameClient": "Cassio",
+  "data": {
+    "adress": "Carrer Rocafort, 123",
+    "telephone": 688980084,
+    "email": "cass@cas.mail",
+    "registerDate": "23/09/2023"
+  },
+  "lastShop": {
+    "_id": "ObjectId('661cf665ecbf44ebbd32ce97')",
+    "marca": "Rayban",
+    "graduaction": {
+      "l": 2.3,
+      "r": 2
+    },
+    "glassColor": {
+      "l": "Azul",
+      "r": "Azul"
+    },
+    "frameType": "Metalica",
+    "price": 127
+  }
+}]
